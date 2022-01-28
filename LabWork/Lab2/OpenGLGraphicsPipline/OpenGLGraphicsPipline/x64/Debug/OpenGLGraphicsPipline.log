@@ -1,0 +1,6 @@
+﻿  GameEngine.cpp
+C:\Users\jw956\Documents\GitHub\Game_Engine_milstone_repo\LabWork\Lab2\OpenGLGraphicsPipline\OpenGLGraphicsPipline\GameEngine.h(29,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\jw956\Documents\GitHub\Game_Engine_milstone_repo\LabWork\Lab2\OpenGLGraphicsPipline\OpenGLGraphicsPipline\GameEngine.h(29,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  OpenGLGraphicsPipline.vcxproj -> C:\Users\jw956\Documents\GitHub\Game_Engine_milstone_repo\LabWork\Lab2\OpenGLGraphicsPipline\x64\Debug\OpenGLGraphicsPipline.exe
