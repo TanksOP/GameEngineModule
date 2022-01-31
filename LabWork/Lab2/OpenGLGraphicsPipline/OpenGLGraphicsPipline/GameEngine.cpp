@@ -59,6 +59,11 @@ namespace GE {
 		}
 	
 		
+		// create the triangle renderer object variable
+		triangle = new TriangleRenderer();
+
+		// initialise the object
+		triangle->Init();
 
 		return true;
 	}
@@ -90,18 +95,19 @@ namespace GE {
 		glClearColor(0.392f, 0.584f, 0.929f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT);
 
-		glBegin(GL_TRIANGLES);
-		
+		triangle->Draw();
 
 		SDL_GL_SwapWindow(window);
 	}
 
 	void GameEngine::Shutdown()
 	{
+		triangle->Destroy();
+
 		SDL_DestroyWindow(window);
 		window = nullptr;
 		
-		//SDL_QUIT();
+		SDL_Quit();
 	}
 
 	void GameEngine::SetWindowTitle(const char* newTitle)

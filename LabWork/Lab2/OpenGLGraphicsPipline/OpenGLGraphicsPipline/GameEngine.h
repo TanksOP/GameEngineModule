@@ -3,6 +3,8 @@
 #include <SDL.h>
 #include <SDL_opengl.h>
 
+#include "TriangleRenderer.h"
+
 
 namespace GE {
 
@@ -24,6 +26,8 @@ namespace GE {
 		SDL_Window* window;
 
 		SDL_GLContext glContext;
+
+		TriangleRenderer* triangle;
 	
 	};
 
