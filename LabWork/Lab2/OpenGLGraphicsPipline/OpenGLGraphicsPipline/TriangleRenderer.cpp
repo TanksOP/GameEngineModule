@@ -45,6 +45,9 @@ namespace GE {
 
 			// deletes the memorry for the msg
 			delete[] msg;
+
+
+			////////-------------------------------------------------------------------------- test
 		}
 	}
 
