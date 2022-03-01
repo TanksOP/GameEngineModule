@@ -43,4 +43,10 @@ Wgilst creatign the game egine I have been completing diffent labs to code up se
 ![image](https://user-images.githubusercontent.com/71771303/152689151-6ed277db-417b-4fbd-b6bf-86253642e48f.png)
 ## Lab 5 Model Renderer
 ![image](https://user-images.githubusercontent.com/71771303/152687572-d219cbed-d1e8-413e-8c2b-9624363a56b9.png)  
-## Lab 6 
+## Lab 6 Adding textures
+![image](https://user-images.githubusercontent.com/71771303/156079737-afdb4b36-20b6-401e-b1af-6ab952868022.png)  
+## Lab 7 Terrain and Skybox
+![image](https://user-images.githubusercontent.com/71771303/155196701-2bc7e06f-d366-40c6-a16f-2bfacbac1f47.png)  
+![image](https://user-images.githubusercontent.com/71771303/155730247-e3770197-7148-4a5d-9324-00e228823707.png) 
+## Lab 8 First Person Camera
+![image](https://user-images.githubusercontent.com/71771303/156083525-8ff97383-cfa4-4e6b-af20-2299ba35b29e.png)
