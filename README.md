@@ -50,3 +50,8 @@ Wgilst creatign the game egine I have been completing diffent labs to code up se
 ![image](https://user-images.githubusercontent.com/71771303/155730247-e3770197-7148-4a5d-9324-00e228823707.png) 
 ## Lab 8 First Person Camera
 ![image](https://user-images.githubusercontent.com/71771303/156083525-8ff97383-cfa4-4e6b-af20-2299ba35b29e.png)
+## Lab 9 Lighting
+![image](https://user-images.githubusercontent.com/71771303/160491379-edc7bfbc-5f6b-4f92-9b49-e536902e976d.png)
+## Lab 10 
+![image](https://user-images.githubusercontent.com/71771303/160490993-b33aa417-5b13-4ab8-9304-d4df3fda185e.png)
+
