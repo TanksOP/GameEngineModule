@@ -26,8 +26,8 @@ I will also be implementing instancing to help create multiple tumbleweeds and c
 
 I would also like to implement in, bump mapping, Lighting/shadows, and particle effects.
 
-My Current progress in the game world is shown with the picture below. I have currenty got a cube sky box, a terrain which i have decresed the bumbs on to look nicer, and 5 models - a horse, a cart, a saloon , and 2 diffent cactus moddels.  
-![image](https://user-images.githubusercontent.com/71771303/156077411-22e23111-62d6-4f18-9950-ee851f5c8dae.png)
+My Current progress in the game world is shown with the picture below. I have currenty got a cube sky box, a terrain which i have decresed the bumbs on to look nicer, and 5 models - a horse, a cart, a saloon , and 2 diffent cactus moddels.  I also have a first person camera to allow the user to move around the scene. The scene currertly has lightling, and a gre fog.
+![image](https://user-images.githubusercontent.com/71771303/160490993-b33aa417-5b13-4ab8-9304-d4df3fda185e.png)
 
 
 # Progress Points (Labs)
