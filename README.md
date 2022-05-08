@@ -1,6 +1,7 @@
 James Wilson  
 Module Number - CMP5363
 
+To view the project files for both linux and windows go the the respective folders in the FINAL BUILD folder of the branch
 # Game Engine Repo
 This is a repo that contains my work that I will be doing on the gaem engine module.  
 The differnt labs that I will be completing during the module to help me learn and understand how to create a game engine in c++ using OpenGL are inside diffent branches on the repo. The first 3D game scene with a model in it is on lab 5. 
@@ -13,25 +14,27 @@ I have decided to go with the Wild West/Western desert theme.
 In the game scene I will haev differnt models these will include:
 * Multiple diffent models of Cactus
 * Horse
-* Tumbleweed
+* Tumbleweed (not implemented)
 * Saloon
 * Cowboy Cart
 
-I will have tumbleweed, set with preprogrammed movemnt that will move accross the screen.  
+
 There will be a yellow/oraange sandy fog.  
 
-I would like to implement Level of Detail into the world, as at a further distance the objects won't need to be renderd in as high quality especially since i am planning on adding in fog, which might mean at some points some obects can barly bee seen so don't need to be high quality.
+I will be implementign fog, a hud, ans ome real time user controls of settings.
 
 I will also be implementing instancing to help create multiple tumbleweeds and cactus.
 
 I would also like to implement in, bump mapping, Lighting/shadows, and particle effects.
 
-My Current progress in the game world is shown with the picture below. I have currenty got a cube sky box, a terrain which i have decresed the bumbs on to look nicer, and 5 models - a horse, a cart, a saloon , and 2 diffent cactus moddels.  I also have a first person camera to allow the user to move around the scene. The scene currertly has lightling, and a gre fog.
-![image](https://user-images.githubusercontent.com/71771303/160490993-b33aa417-5b13-4ab8-9304-d4df3fda185e.png)
+My Current progress in the game world is shown with the picture below. This is my current final update. I have added in soem addition ui to show a map, fps count and fog density. There are texture models and and a terrain that uses a hieght map. I have added in the abilty to add both a sky dome and a skybox.
+![image](https://user-images.githubusercontent.com/71771303/167316743-b29ab825-407e-4132-bda3-71015714717f.png)
+
+
 
 
 # Progress Points (Labs)
-Wgilst creatign the game egine I have been completing diffent labs to code up sections of the engine. Below here are pictures from each Lab showing what progrss was made between them. Each new lab includes the fetur made in the previous lab, so to see the most up to date version of the project go to the latest lab. For more information on the labs and some perfomace profilling, go the the lab branhces. 
+Whilst creatign the game egine I have been completing diffent labs to code up sections of the engine. Below here are pictures from each Lab showing what progrss was made between them. Each new lab includes the fetur made in the previous lab, so to see the most up to date version of the project go to the latest lab. For more information on the labs and some perfomace profilling, go the the lab branhces. 
 
 ## Lab 1 was a first look at using openGL
 ![image](https://user-images.githubusercontent.com/71771303/152689865-445b0e52-b433-4dfe-8332-772046065b9d.png)
@@ -54,4 +57,7 @@ Wgilst creatign the game egine I have been completing diffent labs to code up se
 ![image](https://user-images.githubusercontent.com/71771303/160491379-edc7bfbc-5f6b-4f92-9b49-e536902e976d.png)
 ## Lab 10 
 ![image](https://user-images.githubusercontent.com/71771303/160490993-b33aa417-5b13-4ab8-9304-d4df3fda185e.png)
+## Final progress  
+![image](https://user-images.githubusercontent.com/71771303/167316752-e941cbaa-1192-419b-a160-8b6ad7466e44.png)
+
 
