@@ -1,0 +1,11 @@
+Model Information:
+* title:	Horse
+* source:	https://sketchfab.com/3d-models/horse-29a679df4a014b55a9476b520b430895
+* author:	nikita (https://sketchfab.com/tungpv90)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Horse" (https://sketchfab.com/3d-models/horse-29a679df4a014b55a9476b520b430895) by nikita (https://sketchfab.com/tungpv90) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

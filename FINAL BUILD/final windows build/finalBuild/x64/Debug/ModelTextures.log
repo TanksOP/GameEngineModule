@@ -1,0 +1,95 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FirstPersonCam.vcxproj, lighting.vcxproj, ModelTextures.vcxproj, TerrainSky.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  FontRenderer.cpp
+  GameEngine.cpp
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(62,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(66,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(133,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(137,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(111,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(113,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(114,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(126,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(128,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(129,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(142,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(164,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(180,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(209,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(209,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(340,21): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(367,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(368,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(390,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(391,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GameEngine.cpp(442,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  GUIRenderer.cpp
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(99,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(100,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(107,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(107,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(108,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(108,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(109,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(109,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(111,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(111,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(112,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(112,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(113,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\GUIRenderer.cpp(113,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(62,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(66,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(133,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(137,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Model.cpp
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Model.cpp(31,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Model.cpp(34,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Model.cpp(63,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ModelRenderer.cpp
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(62,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(66,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(133,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(137,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\ModelRenderer.cpp(240,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  ShaderUtils.cpp
+  SkyboxRenderer.cpp
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(62,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(66,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(133,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Camera.h(137,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SkyDome.cpp
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\SkyDome.cpp(8,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\SkyDome.cpp(40,26): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\SkyDome.cpp(41,32): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\SkyDome.cpp(67,36): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xmemory(696,103): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(689): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,float&,float&,float&,float&,float&,int,int,int>(_Alloc &,_Objty *const ,float &,float &,float &,float &,float &,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<GE::Vertex>,
+              _Ty=GE::Vertex,
+              _Objty=GE::Vertex
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(694): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,float&,float&,float&,float&,float&,int,int,int>(_Alloc &,_Objty *const ,float &,float &,float &,float &,float &,int &&,int &&,int &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<GE::Vertex>,
+              _Ty=GE::Vertex,
+              _Objty=GE::Vertex
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(707): message : see reference to function template instantiation 'void std::vector<GE::Vertex,std::allocator<GE::Vertex>>::_Emplace_back_with_unused_capacity<float&,float&,float&,float&,float&,_Ty,_Ty,_Ty>(float &,float &,float &,float &,float &,_Ty &&,_Ty &&,_Ty &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\SkyDome.cpp(34): message : see reference to function template instantiation 'void std::vector<GE::Vertex,std::allocator<GE::Vertex>>::emplace_back<float&,float&,float&,float&,float&,int,int,int>(float &,float &,float &,float &,float &,int &&,int &&,int &&)' being compiled
+  Terrain.cpp
+C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\instancingParticles\Terrain.cpp(56,30): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  Texture.cpp
+  Generating Code...
+  ModelTextures.vcxproj -> C:\Users\jw956\Documents\GitHub\GameEngine\instancingParticles\x64\Debug\instancingParticles.exe
